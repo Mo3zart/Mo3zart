@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on TextTales - a Markdown blog<br>🌱 I’m currently getting better at Python
+🔭 I’m currently working on Syntx - a Markdown blog<br>🌱 I’m currently getting better at Python
 
 
 ## 🌐 Socials:
